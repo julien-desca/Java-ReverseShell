@@ -11,6 +11,8 @@ public class Shell {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+	host = args[0];
+	port = args[1]
 
         try {
             System.out.println("Init connection to " + host +":"+port);
