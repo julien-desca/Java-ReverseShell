@@ -12,7 +12,7 @@ public class Shell {
      */
     public static void main(String[] args) {
 	host = args[0];
-	port = args[1]
+	port = args[1];
 
         try {
             System.out.println("Init connection to " + host +":"+port);
