@@ -1,2 +1,2 @@
-# Java-ReverserShell
+# Java-ReverseShell
 java SE reverse shell
